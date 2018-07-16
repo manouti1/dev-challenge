@@ -20,8 +20,8 @@ You will be presented an array of characters. Sort them in alphabetical order.
 3. Seperated in at least 4 projects (data, logic, test, frontend)
 
 Implement and test the following user stories:
-As a user, I am able to see a list of todo items, sorted by status (open, done)
-As a user, I am able to add a todo item
-As a user, I am able to edit a todo item
-As a user, I am able to remove a todo item (not completed)
-As a user, I am able to check a todo item (todo item completed)
+- As a user, I am able to see a list of todo items, sorted by status (open, done)
+- As a user, I am able to add a todo item
+- As a user, I am able to edit a todo item
+- As a user, I am able to remove a todo item (not completed)
+- As a user, I am able to check a todo item (todo item completed)
