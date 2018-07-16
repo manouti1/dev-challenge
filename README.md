@@ -1,4 +1,4 @@
-Internship Assignment
+Dev challenge
 ---
 ### How to do assignments:
 1. Fork or download repository
