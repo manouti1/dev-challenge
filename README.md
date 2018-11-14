@@ -15,9 +15,11 @@ You will be presented an array of integers. For each value count the number of o
 You will be presented an array of characters. Sort them in alphabetical order.
 
 ### 3. Create a single page TODO application with the following
-1. Has to be a Visual Studio 2017 solution
-2. All enpoints need to be testes in a test project
-3. Seperated in at least 4 projects (data, logic, test, frontend)
+1. Backend needs to be .NET Core 2.0+
+2. Created in VS 2017
+3. Frontend has to be a Single Page Application
+4. All enpoints need to be testes in a test project
+5. Seperated in at least 4 projects (data, logic, test, frontend)
 
 Implement and test the following user stories:
 - As a user, I am able to see a list of todo items, sorted by status (open, done)
